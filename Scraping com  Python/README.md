@@ -26,10 +26,10 @@
 * Os métodos `find()` e `findAll()`
 * Algumas configurações de argumentos e dicas de pesquisa para os métodos `find()` e `findAll()`
 * Outros métodos de pesquisa disponibilizados pela biblioteca `BeautifulSoup`:
-> findParent e findParents
-> findNextSiblings e findNextSiblings
-> findPreviousSibling e findPreviousSiblings
-> findNext e findAllNext
+> findParent e findParents <br>
+> findNextSiblings e findNextSiblings <br>
+> findPreviousSibling e findPreviousSiblings <br>
+> findNext e findAllNext <br>
 > findPrevious e findAllPrevious
 
 ## Aula 05 - Nesta aula, aprendemos:
