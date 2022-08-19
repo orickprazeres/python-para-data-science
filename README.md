@@ -10,4 +10,4 @@ Acesse os projetos: <br>
 4. [Data Visualization;](https://github.com/orickprazeres/python-para-data-science/tree/main/Data%20Visualization)
 5. Análise de [Series Temporais;](https://github.com/orickprazeres/python-para-data-science/tree/main/Analise%20de%20Series%20Temporais)
 6. Criando [Corretor Ortográfico em Python;](https://github.com/orickprazeres/python-para-data-science/tree/main/Corretor%20Ortogr%C3%A1fico%20em%20Python).
-7. Scraping com Python: coleta de dados na web. (*em andamento*)
+7. Coleta de dados web com [Scraping com Python](https://github.com/orickprazeres/python-para-data-science/tree/main/Scraping%20com%20%20Python).
